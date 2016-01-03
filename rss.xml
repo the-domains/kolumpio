@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[kolumpio]]></title>
         <description><![CDATA[kolumpio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kolumpio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 08:10:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 08:23:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kolumpio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing out the grid]]></title>
+            <description><![CDATA[<article><h1>Testing out the grid</h1><p>Just trying this out</p></article>]]></description>
+            <link>https://thegrid.ai/kolumpio/testing-out-the-grid/index.html</link>
+            <guid isPermaLink="false">9e675c50-cb2a-4faa-b29a-c90c4a44d6af</guid>
+            <pubDate>Sun, 03 Jan 2016 08:22:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a43d00f8-b108-47b6-96ad-8ca0b56eaa8e.jpg">]]></description>
-            <link>undefinedb5286700-1e2d-41a5-8b3e-8b2fa13e3fd6/index.html</link>
+            <link>https://thegrid.ai/kolumpio/b5286700-1e2d-41a5-8b3e-8b2fa13e3fd6/index.html</link>
             <guid isPermaLink="false">b5286700-1e2d-41a5-8b3e-8b2fa13e3fd6</guid>
             <pubDate>Sun, 03 Jan 2016 08:10:09 GMT</pubDate>
         </item>
